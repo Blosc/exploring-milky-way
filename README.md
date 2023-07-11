@@ -1,5 +1,5 @@
 # Gaia
-Scripts for processing Gaia datasets
+Scripts for processing Gaia datasets. We produced most of the plots and benchmarks for the SciPy 2023 talk, "A Fast Explorer Of The Milky Way" with these.
 
 * The scripts for importing Gaia data are in import-data/.
 
