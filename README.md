@@ -1,0 +1,8 @@
+# Gaia
+Scripts for processing Gaia datasets
+
+* The scripts for importing Gaia data are in import-data/ dir.
+
+* The scripts for plotting Gaia data are in plots/ dir.
+
+* Other benchmarking scripts can be found in bench/ dir.

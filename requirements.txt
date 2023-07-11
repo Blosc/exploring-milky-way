@@ -1,0 +1,9 @@
+pandas
+numpy
+numexpr
+blosc2
+zstandard
+tables
+h5py
+zarr
+plotly
